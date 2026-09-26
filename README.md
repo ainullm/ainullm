@@ -8,9 +8,9 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BD93F9&center=true&vCenter=true&width=550&lines=Konnichiwa!+I+am+Ainul+Muhlasin;Flutter+%26+Web+Developer;Python+%26+JavaScript+Enthusiast;Welcome+to+my+Shinobu+Realm!" alt="Typing SVG" />
   </a>
 
-  <!-- Aesthetic Shinobu Donut GIF -->
+  <!-- Simple & Clean Shinobu Donut GIF -->
   <p align="center">
-    <img src="https://media4.giphy.com/media/kye44lQD6ccfoIbZ68/giphy.gif" width="380px" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(189, 147, 249, 0.3);" alt="Oshino Shinobu - Donut" />
+    <img src="https://media4.giphy.com/media/kye44lQD6ccfoIbZ68/giphy.gif" width="480px" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(189, 147, 249, 0.3);" alt="Oshino Shinobu" />
   </p>
 
 </div>
@@ -19,7 +19,8 @@
 
 ### 🍩 About Me
 
-<img align="right" src="https://media3.giphy.com/media/nm0uEPItMCZCC5ZVjp/giphy.gif" width="170px" alt="Shinobu Oshino" style="border-radius: 12px; margin-left: 15px;" />
+<!-- Clean, subtle Shinobu holding donut (No text, no glitter, pure anime art) -->
+<img align="right" src="https://media.giphy.com/media/3wbllIx15jKYWjGyJ9/giphy.gif" width="360px" alt="Shinobu Oshino" style="border-radius: 12px; margin-left: 15px;" />
 
 > *"Pan-nai! (Donuts are the finest delicacy in the world!)"*  
 > — **Oshino Shinobu (Monogatari Series)**
@@ -81,17 +82,14 @@
 
 <div align="center">
 
-  <a href="https://linkedin.com/in/ainullm" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/ainullm" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/ainullm" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:your_email@example.com">
+  <a href="mailto:zanulm900@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://discord.com" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 
 </div>
