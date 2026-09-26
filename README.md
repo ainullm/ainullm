@@ -59,7 +59,7 @@
 
 ---
 
-### 📊 GitHub Statistics (Tokyo Night Theme)
+### 📊 GitHub Statistics
 
 <div align="center">
 
