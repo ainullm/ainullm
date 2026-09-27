@@ -5,7 +5,7 @@
 
   <!-- Animated Typing SVG -->
   <a href="https://github.com/ainullm">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BD93F9&center=true&vCenter=true&width=550&lines=Konnichiwa!+I+am+Ainul+Muhlasin;Flutter+%26+Web+Developer;Python+%26+JavaScript+Enthusiast;Welcome+to+my+Shinobu+Realm!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BD93F9&center=true&vCenter=true&width=550&lines=Hallo!+I+am+Ainul+Muhlasin;Flutter+%26+Web+Developer;Python+%26+JavaScript+Enthusiast;Welcome+to+my+Shinobu+Realm!" alt="Typing SVG" />
   </a>
 
   <!-- Simple & Clean Shinobu Donut GIF -->
@@ -23,7 +23,7 @@
 <img align="right" src="https://media.giphy.com/media/3wbllIx15jKYWjGyJ9/giphy.gif" width="360px" alt="Shinobu Oshino" style="border-radius: 12px; margin-left: 15px;" />
 
 > *"Pan-nai! (Donuts are the finest delicacy in the world!)"*  
-> — **Oshino Shinobu (Monogatari Series)**
+> — **Oshino Shinobu**
 
 - 🧑‍💻 **Name**: Ainul Muhlasin
 - 📱 **Focus**: Mobile & Web Development (**Flutter** & **React**)
